@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ded_sec
+Build-Jdk: 17.0.4.1
+Implementation-Title: gateway-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: pl.piomin
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
